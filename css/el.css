@@ -1,0 +1,42 @@
+.inner_page {
+	background-color: #eee;
+	border: 1px solid #E53935;
+}
+.signup {
+	border: 1px solid #ccc;
+	background-color: #efe;	
+	margin: 10px 0 0 0;
+	padding: 53px 90px;
+}
+
+.logo {
+	margin: 0;
+	padding: 0 0 10px 15px;
+	font-weight: bold;
+	color: #4061C3;
+}
+.header {
+	padding: 10px 0 0 0;
+}
+.linkBlock {
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid green;
+	background-color:#DDDDDD;
+}
+div.linkBlock ul {
+	margin-bottom: 0;
+}
+div.linkBlock span {
+	font-style: italic;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+div.linkBlock span.watchTip {
+	font-style: italic;
+	font-weight: normal;
+	margin-bottom: 0;
+	color: gray;
+	cursor: pointer;
+}
